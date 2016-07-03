@@ -33,5 +33,5 @@ dist/public
 
 reports
 chromedriver*
-lib
+#lib
 *.zip
